@@ -1,0 +1,1 @@
+-- SQL script to calculate credit utilization impact
